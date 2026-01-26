@@ -1,1 +1,2 @@
 ### 算法学习篇-入门
+[Noob40-二维斐波那契数列](https://github.com/Supermilk-Niuru/Problem-solving-on-Niuke/tree/main/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AF%87-%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8/Noob40-%E4%BA%8C%E7%BB%B4%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97)
